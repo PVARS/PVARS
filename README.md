@@ -1,4 +1,4 @@
-I’m a web developer have experience with the language PHP/Laravel, Java/Spring & VueJS. I wish to have the chances to learn even more and hone my existing programming skills. I do believe I can use what I've learned to help pursue my goals, my colleagues and my company's ambitions. Even more, I'm looking forward to meeting new talented friends and colleagues.  
+I’m a web developer have experience with the language Java, PHP, Spring, Laravel, VueJS. I wish to have the chances to learn even more and hone my existing programming skills. I do believe I can use what I've learned to help pursue my goals, my colleagues and my company's ambitions. Even more, I'm looking forward to meeting new talented friends and colleagues.  
   
 
 <br/>  
